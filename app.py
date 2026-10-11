@@ -80,5 +80,5 @@ st.pyplot(fig)
 
 # 5. Thông tin người tạo (Kích thước chữ nhỏ ở cuối trang)[cite: 2]
 st.markdown("---")
-# LƯU Ý: Em nhớ sửa lại Tên và Mã Số Sinh Viên của em ở dòng dưới nhé!
-st.markdown("<p style='text-align: center; font-size: 12px;'>Người tạo: [Nhập Họ tên của em] - MSSV: [Nhập MSSV của em]</p>", unsafe_allow_html=True)
+# Đã cập nhật họ tên và MSSV của em tại đây
+st.markdown("<p style='text-align: center; font-size: 12px;'>Người tạo: Nguyễn Trần Gia Huy - MSSV: 070208003749</p>", unsafe_allow_html=True)
